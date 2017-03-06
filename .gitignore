@@ -1,0 +1,5 @@
+mbed
+mbed-rtos
+.temp
+.mbed
+*.pyc

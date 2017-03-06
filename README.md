@@ -2,7 +2,7 @@
 
 Clonning the repository
 ```
-mbed import git@github.com:alexandcote/mbed-example.git
+mbed import git@github.com:alexandcote/mbed-example.git mbed-example
 ```
 
 Compile the project
